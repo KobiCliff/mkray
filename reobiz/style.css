@@ -7460,7 +7460,16 @@ body .modal-backdrop {
 .rs-about.inner .image-part {
   position: relative;
 }
+
+.rs-about.inner .image-part1 img{
+  width: 900px;
+  height: 600px;
+  border-radius: 10px;
+}
+
 .rs-about.inner .image-part img {
+  width: 900px;
+  height: 700px;
   border-radius: 10px;
 }
 .rs-about.inner .image-part .author-info {
